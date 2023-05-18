@@ -10,9 +10,9 @@
 *.userosscache
 *.sln.docstates
 
-/AndroidRemote
-/MauiApp1
-/Server
+/AndroidRemote/**
+/MauiApp1/**
+/Server/**
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
