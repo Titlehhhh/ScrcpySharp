@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/MauiApp1/MauiApp1.csproj
+/Server/Server.csproj
+/AndroidRemote/AndroidRemote.csproj
